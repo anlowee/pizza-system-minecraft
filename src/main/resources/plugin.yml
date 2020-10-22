@@ -1,0 +1,8 @@
+name: Pizza-System-Minecraft
+version: 1.0
+main: com.iamwxc.pizzasystemminecraft.PizzaSystemMinecraft
+api-version: 1.16
+commands:
+  order:
+    description: 开始点餐
+    usage: /<command>
